@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "510074085412",
+    "firebase_url": "https://chatfirebase-mktreports.firebaseio.com",
+    "project_id": "chatfirebase-mktreports",
+    "storage_bucket": "chatfirebase-mktreports.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510074085412:android:254228f6aa12c7ef7a78b1",
+        "android_client_info": {
+          "package_name": "com.mktreports.chatfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510074085412-bksrg7q7pm52iaii9ir9qen2pjbc99md.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1lLYx66OLGoYX3kKYgMdgSiSm3xHwWzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510074085412-bksrg7q7pm52iaii9ir9qen2pjbc99md.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
